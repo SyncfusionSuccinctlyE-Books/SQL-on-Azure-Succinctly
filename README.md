@@ -1,0 +1,1 @@
+Code samples for SQL on Azure Succinctly.
